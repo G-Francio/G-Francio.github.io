@@ -2,11 +2,11 @@ entries:
   - title: About me
     url: pages/AboutMe
   - title: My research - Explained simply
-    post list:
-      - limit: 2
-      - show_more: false
+    entries:
       - title: Searching for high redshift QSOs
+        url: pages/simple_SearchingQSO
       - title: Costraining cosmological parameters with QSO spectra
+        url: pages/simple_CosmoParams
   - title: My research - From the source
     entries:
       - title: Paper I
@@ -19,6 +19,7 @@ entries:
       - title: Mail
       - title: Github
       - title: ORCID
+      - title: NASA Ads library
   - title: Hobbies and stuff
     entries:
       - title: Hiking pictures
