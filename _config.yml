@@ -21,7 +21,7 @@
 title: Francesco Guarneri's web corner
 email: francesco.guarneri@inaf.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website! I am a PhD student at the University of Trieste (IT), currently on loan at the European Southern Observatory in Germany.
+  Welcome to my personal website! I am a PhD student in astrophysics at the University of Trieste (IT), currently on loan at the European Southern Observatory in Germany.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://g-francio.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,7 +31,7 @@ github_username:  G-Francio
 remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "..." # customize text for homepage link in post layout
+  back_home_text: "<- Back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
 
