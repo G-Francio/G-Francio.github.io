@@ -1,0 +1,24 @@
+entries:
+  - title: About me
+    url: https://github.com/G-Francio/G-Francio.github.io/blob/main/README.md
+  - title: My research - Explained simply
+    entries:
+      - title: Searching for high redshift QSOs
+      - title: Costraining cosmological parameters with QSO spectra
+  - title: My research - From the source
+    entries:
+      - title: Paper I
+      - title: Paper II
+      - title: Paper III - Submitted
+      - title: QLENS - The QUBRICS search for lensed QSOs - In preparation
+      - title: All the papers I have contributed to
+  - title: Links
+    entries:
+      - title: Mail
+      - title: Github
+      - title: ORCID
+  - title: Hobbies and stuff
+    entries:
+      - title: Hiking pictures
+      - title: Outreach and resources
+      - title: Games and Books
