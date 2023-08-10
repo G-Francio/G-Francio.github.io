@@ -1,8 +1,10 @@
 entries:
   - title: About me
-    url: https://github.com/G-Francio/G-Francio.github.io/blob/main/README.md
+    url: pages/AboutMe
   - title: My research - Explained simply
-    entries:
+    post list:
+      - limit: 2
+      - show_more: false
       - title: Searching for high redshift QSOs
       - title: Costraining cosmological parameters with QSO spectra
   - title: My research - From the source
