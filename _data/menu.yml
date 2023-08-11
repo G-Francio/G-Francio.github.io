@@ -1,20 +1,18 @@
 entries:
   - title: About me
-    url: assets/md/AboutMe
+    url: about
   - title: My research - Explained simply
     entries:
       - title: Searching for high redshift QSOs
-        url: assets/md/simple_SearchingQSO
+        url: assets/md/public_cosmo_params
       - title: Costraining cosmological parameters with QSO spectra
-        url: assets/md/simple_CosmoParams
-  - title: My research - From the source
+        url: assets/md/public_cosmo_params
+  - title: My research - Papers
     entries:
-      - title: The probabilistic random forest applied to the selection of quasar candidates in the QUBRICS survey.
-      - title: The probabilistic random forest applied to the QUBRICS survey - improving the selection of high-redshift quasars with synthetic data 
-      - title: Fundamental physics with ESPRESSO - A new determination of the D/H ratio towards PKS1937-101 (submitted)
-      - title: QLENS - The QUBRICS search for lensed QSOs (in preparation)
-      - title: All the papers I have contributed to
-        url: assets/md/papers
+      - title: Papers I am first author of
+        url: assets/md/papers_first_author
+      - title: Papers I somehow contributed to
+        url: assets/md/papers_contributed
   - title: Links
     entries:
       - title: Mail

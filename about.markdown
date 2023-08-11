@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
 ---
+<img style="float: left; padding: 0px 10px 0px 0px;" src="/assets/img/me.jpg" alt="Picture of Francesco" width=147> I am a third year PhD student from the University of Trieste (IT), since 2020. I work under the supervision of [Stefano Cristiani](https://wwwuser.oats.inaf.it/stefano.cristiani/) on searching bright QSOs in the Southern Hemisphere and using high-resolution spectroscopy of QSO spectra to constrain cosmological parameters. I was awarded a studentship for 1.5 years at ESO, the European Southern Observatory, where I am currently based, under the supervision of Luca Pasquini.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I did all my undergraduate studies in Trieste, where I was enrolled in a bachelor and master degree in Physics. I attended astronomy courses or curricula when possible. If interested, my full CV is available [here]().
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I enjoy doing outreach, and when possible I try to contribute to such activities. I have volunteered to be a guide at the [ESO Supernova](https://supernova.eso.org/), at the [Universe on Tour](https://www.wissenschaftsjahr.de/2023/universe-on-tour) and gave a public talk at a high school about black holes. In my free time I try to be outside if possible (I love hiking!), read books or play games if I can't :)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+For anything, feel free to drop me an [email](mailto:francesco.guarneri@inaf.it)!
