@@ -8,7 +8,7 @@
 
 2. **The probabilistic random forest applied to the QUBRICS survey: improving the selection of high-redshift quasars with synthetic data**, Guarneri et al. 2022
 
-    We test whether using synthetic data is beneficial to the selection of bright (i < 18) and high-redshift (z > 2.5) QSOs. Synthetic data are generated using a parametric spectral energy distribution. We find that:  
+    We test whether using synthetic data can be beneficial to the selection of bright (i < 18) and high-redshift (z > 2.5) QSOs. Synthetic data are generated using a parametric spectral energy distribution. We find that:  
     - The best results are obtained when training with a mix of syntetic and spectroscopically confirmed QSOs;  
     - Training with syntetic data allows to recover extreme cases (e.g., very bright targets);  
     - Using colours instead of magnitudes produces better results;  
