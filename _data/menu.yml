@@ -4,7 +4,7 @@ entries:
   - title: My research - Explained simply
     entries:
       - title: Searching for high redshift QSOs
-        url: assets/md/public_cosmo_params
+        url: assets/md/public_searching_QSO
       - title: Costraining cosmological parameters with QSO spectra
         url: assets/md/public_cosmo_params
   - title: My research - Papers

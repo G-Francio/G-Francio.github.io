@@ -1,16 +1,17 @@
-#### First author papers
+---
+layout: page
+title: Papers I am first author of
+---
 
 1. **The probabilistic random forest applied to the selection of quasar candidates in the QUBRICS survey**  
     *Guarneri*, Calderone, Cristiani, Fontanot, Boutsia, Cupani, Grazian, D'Odorico  
-    2021, MNRAS, 506, 2471  
 
-    We test the Probabilistic Random Forest (PRF) for the selection of bright (i < 18), high redshift (z > 2.5) QSOs. The PRF is a modified version of the Random Forest able to take into account measurement uncertainties. We tweaked the algorithm to properly handle upper limits, and used it a photometric catalogue to produce a list of QSOs candidates, some of which where confirmed with dedicated spectroscopic campaigns. We find that the PRF is able to reliably identify QSOs in large photometric catalogues.
+    We test the Probabilistic Random Forest (PRF) for the selection of bright (i < 18), high redshift (z > 2.5) QSOs. The PRF is a modified version of the Random Forest able to take into account measurement uncertainties. We tweaked the algorithm to properly handle upper limits, and used it a photometric catalogue to produce a list of QSOs candidates, some of which were confirmed with dedicated spectroscopic campaigns. We find that the PRF is able to reliably identify QSOs in large photometric catalogues.
 
     [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.2471G/abstract) - [Arxiv](https://arxiv.org/pdf/2106.12990.pdf) - [Publisher](https://academic.oup.com/mnras/article/506/2/2471/6313316)
 
 2. **The probabilistic random forest applied to the QUBRICS survey: improving the selection of high-redshift quasars with synthetic data**  
     *Guarneri*, Calderone, Cristiani, Porru, Fontanot, Boutsia, Cupani, Grazian, D'Odorico, Murphy, Bongiorno, Saccheo, Nicastro  
-    2022, MNRAS, 517, 2436  
 
     We test whether using synthetic data can be beneficial to the selection of bright (i < 18) and high-redshift (z > 2.5) QSOs. Synthetic data are generated using a parametric spectral energy distribution. We find that:  
     - The best results are obtained when training with a mix of syntetic and spectroscopically confirmed QSOs;  
@@ -32,4 +33,4 @@
     Guarneri et al.  
     In preparation  
 
-    <img align="left" src="/assets/img/wip.png" alt="Work In Progress Icon from clipartmax.com"> Using publicly available data, we search for lensed QSOs in the framework of the QUBRICS survey.
+    <img style="float: left; padding: 0px 3px 0px 0px;" src="/assets/img/wip.webp" alt="Work In Progress Icon from clipartmax.com" height="42" width="42"> Using publicly available data, we search for lensed QSOs in the framework of the QUBRICS survey.
