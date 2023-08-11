@@ -1,4 +1,7 @@
-#### Papers I somehow contributed to
+---
+layout: page
+title: Papers I somehow contributed to
+---
 
 1. **Spectroscopy of QUBRICS quasar candidates: 1672 new redshifts and a golden sample for the Sandage test of the redshift drift**  
     Cristiani, Porru, *Guarneri*, Calderone, Boutsia, Grazian, Cupani, D'Odorico, Fontanot, Martins, Marques, Maitra, Trost  
@@ -50,7 +53,7 @@
 
 ---
 
-#### Proceedings, posters and conferences
+**Proceedings, posters and conferences**
 
 1. **Spectrographs and Spectroscopists for the Sandage Test**  
     Cristiani, Boutsia, Calderone, Cupani, D'Odorico, Fontanot, Grazian, *Guarneri*, Martins, Pasquini, Porru, Vanzella  

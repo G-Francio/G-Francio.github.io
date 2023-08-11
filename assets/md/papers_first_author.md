@@ -1,4 +1,7 @@
-#### First author papers
+---
+layout: page
+title: Papers I am first author of
+---
 
 1. **The probabilistic random forest applied to the selection of quasar candidates in the QUBRICS survey**  
     *Guarneri*, Calderone, Cristiani, Fontanot, Boutsia, Cupani, Grazian, D'Odorico  
@@ -30,4 +33,4 @@
     Guarneri et al.  
     In preparation  
 
-    <img align="left" src="/assets/img/wip.png" alt="Work In Progress Icon from clipartmax.com"> Using publicly available data, we search for lensed QSOs in the framework of the QUBRICS survey.
+    <img style="float: left; padding: 0px 3px 0px 0px;" src="/assets/img/wip.webp" alt="Work In Progress Icon from clipartmax.com" height="42" width="42"> Using publicly available data, we search for lensed QSOs in the framework of the QUBRICS survey.
