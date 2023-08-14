@@ -5,7 +5,7 @@ title: Searching for bright and high redshfit QSOs
 
 **A Quick Overview**: QSOs (Quasi Stellar Objects, particularly bright Active Galactic Nuclei) allow a wide range of studies (spanning from cosmology to galaxy evolution), but we need bright targets to be efficient with telescope time. These were lacking especially in the southern sky, and several surveys were started to find previously undiscovered objects. Among these there is QUBRICS, on which I contributed for a large part of my PhD. After nearly five years, QUBRICS has identified and spectroscopically confirmed more than 2000 QSOs, some of which are the brightest currently available, significantly reducing the time needed to perform future experiments.
 
-[ChatGPT version, where I asked for a more conversational tone](/assets/md/intro_research_chat_gpt.md)
+[ChatGPT version, where I asked for a more conversational tone](/assets/md/intro_research_chat_gpt)
 
 ---
 

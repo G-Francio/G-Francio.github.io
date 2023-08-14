@@ -26,7 +26,8 @@ entries:
   - title: Hobbies and stuff
     entries:
       - title: Hiking pictures
+        url: assets/md/hiking
       - title: Outreach and resources
         url: assets/md/outreach
       - title: Games and Books
-        url: asset/md/free_time
+        url: assets/md/free_time
