@@ -24,13 +24,13 @@ title: Papers I am first author of
     [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.2436G/abstract) - [Arxiv](https://arxiv.org/pdf/2209.07257.pdf) - [Publisher](https://academic.oup.com/mnras/article/517/2/2436/6747158)  
 
 3. **Fundamental physics with ESPRESSO: A new determination of the D/H ratio towards PKS1937-101**  
-    Guarneri et al.  
-    Submitted to MNRAS  
+    Guarneri, Pasquini, D'Odorico, Cristiani, Cupani, Di Marcantonio, González Hernández, Martins, Mascareño, Milaković, Molaro, Murphy, Nunes, Palle, Pepe, Rebolo, Santos, Génova Santos, Schmidt, Sousa, Sozzetti, Trost
 
-    Using a high resolution, high SNR spsectrum of PKS1937-101 (a bright quasar at redshift 3.787) we measure the primordial deuterium abundance. This is an important parameter to test cosmological models, as it is sensitive to the baryon-to-photon ratio and as a consequence to Ω<sub>m<sub>.
+    Using a high resolution, high SNR spectrum of PKS1937-101 (a bright quasar at redshift 3.787) we measure the primordial deuterium abundance. This is an important parameter to test cosmological models, as it is sensitive to the baryon-to-photon ratio and as a consequence to Ω<sub>m</sub>. We find the measurement robust with respect to systematic effects, and compare the result against a collection of similar studies from literature. Finally, we compare the result against independent probes, finding that, at this stage, there are no significant tensions in the cosmologial model with respect to the primordial D abundance.
+
+    [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp..535G/abstract) - [Arxiv](https://arxiv.org/pdf/2402.05586.pdf) - [Publisher](https://academic.oup.com/mnras/article/529/2/839/7609066)  
 
 4. **QLENS - The QUBRICS search for lensed QSOs**  
     Guarneri et al.  
-    In preparation  
-
-    <img style="float: left; padding: 0px 3px 0px 0px;" src="/assets/img/wip.webp" alt="Work In Progress Icon from clipartmax.com" height="42" width="42"> Using publicly available data, we search for lensed QSOs in the framework of the QUBRICS survey.
+    <img style="float: left; padding: 0px 3px 0px 0px;" src="/assets/img/wip.webp" alt="Work In Progress Icon from clipartmax.com" height="42" width="42"> 
+    Using Gaia data, we search for gravitationally lensed QSOs in the framework of the QUBRICS survey. These systems are important for several cosmological investigations, but are extremely rare. We propose a simple method to find new systems, and validate the method by observing six candidates, and finding four new lensed QSO pairs. The paper is now submitted to A&A 🎉

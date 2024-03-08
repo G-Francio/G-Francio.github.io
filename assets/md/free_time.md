@@ -25,7 +25,7 @@ When I was young I used to read a lot; now not much, but I am trying to get back
 - [The Book Thief](https://en.wikipedia.org/wiki/The_Book_Thief)  
     I so cried at the end.
 - [The Inheritance cycle](https://en.wikipedia.org/wiki/The_Inheritance_Cycle)  
-    Excited about the fifth book!
+    Excited about the fifth book! UPDATE: The book was great! Thoroughly enjoyed it! :D
 - [A song of ice and fire](https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire)  
     Come on, GRRM, finish the series for once!
 
