@@ -23,6 +23,8 @@ entries:
         url: https://orcid.org/0000-0003-4740-9762
       - title: NASA/ADS library
         url: https://ui.adsabs.harvard.edu/public-libraries/JrDdu8SpSCW9qdEmfEpn3g
+      - CV:
+        url: /assets/doc/CV.pdf
   - title: Hobbies and stuff
     entries:
       - title: Hiking pictures
