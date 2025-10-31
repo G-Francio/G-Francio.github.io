@@ -24,7 +24,7 @@ entries:
       - title: NASA/ADS library
         url: https://ui.adsabs.harvard.edu/public-libraries/JrDdu8SpSCW9qdEmfEpn3g
       - CV:
-        url: /assets/doc/CV
+        url: <a href="/assets/doc/CV.pdf" download> My CV (click to download) </a>
   - title: Hobbies and stuff
     entries:
       - title: Hiking pictures
